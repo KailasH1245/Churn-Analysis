@@ -59,4 +59,4 @@ Churn-Analysis/
 ---
 
 ## 👤 Author
-**Kailash Choudhary** | [LinkedIn](https://www.linkedin.com/in/kailash-choudhary-4a770b1bb/) | [GitHub](https://github.com/KailasH1245)
+**Kailash Choudhary** | [LinkedIn](https://www.linkedin.com/in/kailashchoudharydata/) | [GitHub](https://github.com/KailasH1245)
